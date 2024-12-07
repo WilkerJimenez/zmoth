@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "allowJs": true
+  },
+  "extends": "expo/tsconfig.base"
+}
